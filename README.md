@@ -21,7 +21,7 @@ A simple yet elegant **Travel Planner** built using **Flutter** that allows user
 
 | Home Page (List View) | Add New Plan |
 |-----------------------|--------------|
-| ![List View](screenshots/home_view.png) | ![Add Plan](screenshots/add_plan.png) |
+| ![List View](https://github.com/itbindu/Travel_Planner-with-UI-Flutter/blob/main/OUTPUT/Screenshot%202025-01-03%20212022.png) | ![Add Plan](https://github.com/itbindu/Travel_Planner-with-UI-Flutter/blob/main/OUTPUT/Screenshot%202025-01-03%20212006.png) |
 
 ---
 
@@ -29,10 +29,27 @@ A simple yet elegant **Travel Planner** built using **Flutter** that allows user
 
 - **Flutter** (UI Toolkit)
 - **Dart** (Programming Language)
-- **Material Design** for styling and responsiveness
-- **State Management**: `setState()` (for now – suitable for simple apps)
+
 
 ---
 
-## 📂 Project Structure
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/Travel_Planner-with-UI-Flutter.git
+Navigate to the folder:
+
+
+cd Travel_Planner-with-UI-Flutter
+Install packages:
+
+
+flutter pub get
+Run the app:
+
+flutter run
+
+
 
