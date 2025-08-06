@@ -34,22 +34,47 @@ A simple yet elegant **Travel Planner** built using **Flutter** that allows user
 ---
 
 
+
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/Travel_Planner-with-UI-Flutter.git
-Navigate to the folder:
+   ```
 
+2. **Navigate to the folder:**
+   ```bash
+   cd Travel_Planner-with-UI-Flutter
+   ```
 
-cd Travel_Planner-with-UI-Flutter
-Install packages:
+3. **Install packages:**
+   ```bash
+   flutter pub get
+   ```
 
+4. **Run the app:**
+   ```bash
+   flutter run
+   ```
 
-flutter pub get
-Run the app:
+---
 
-flutter run
+## 💡 Future Improvements
 
+- 🗺️ Map view integration using Google Maps API
+- 🔁 Persistent storage using SQLite or Hive
+- ⏰ Reminders for upcoming trips
+- ☁️ Cloud sync and Firebase login
 
+---
 
+## 👤 Author
+
+**Gugulothu Bindu**  
+Flutter Developer | UI/UX Enthusiast
+
+---
+
+## 📃 License
+
+This project is licensed under the MIT License.
