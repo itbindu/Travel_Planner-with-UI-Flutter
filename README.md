@@ -59,12 +59,15 @@ A simple yet elegant **Travel Planner** built using **Flutter** that allows user
 
 ---
 
-## 💡 Future Improvements
+## 🤝 Contributing
 
-- 🗺️ Map view integration using Google Maps API
-- 🔁 Persistent storage using SQLite or Hive
-- ⏰ Reminders for upcoming trips
-- ☁️ Cloud sync and Firebase login
+Have an idea to improve this Travel Planner app? Found a bug or want to add a new feature?  
+**Feel free to fork the repo and submit a Pull Request!**
+
+We welcome all kinds of contributions — whether it's enhancing the UI, adding new functionality (like maps, reminders, or login), or fixing issues.
+
+> Your feedback and suggestions are appreciated!  
+> ⭐️ If you like this project, don’t forget to **star** it and share it with others.
 
 ---
 
