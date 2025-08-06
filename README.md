@@ -74,7 +74,7 @@ We welcome all kinds of contributions — whether it's enhancing the UI, adding 
 ## 👤 Author
 
 **Gugulothu Bindu**  
-Flutter Developer | UI/UX Enthusiast
+Flutter Developer 
 
 ---
 
